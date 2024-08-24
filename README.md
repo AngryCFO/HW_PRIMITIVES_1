@@ -18,11 +18,11 @@ public class Case1 {
     System.out.println("Количество бонусных миль: " + bonusMiles);
   }
 }
-
+```
 **Результат**
 ```
 Бонусные мили:
 Количество бонусных миль: 683
 
 ```
-## Файлы с кодом можно посмотреть в [папке](https://github.com/AngryCFO/HW_PRIMITIVES/tree/main/src)
+## Файлы с кодом можно посмотреть в [папке](https://github.com/AngryCFO/HW_PRIMITIVES_1/tree/main/src)
